@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_Prism", "Project_Prism.csproj", "{181C29CF-59A6-4E02-88DE-1B3AB6D9268B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_Prism_Modules", "..\Project_Prism_Modules\Project_Prism_Modules.csproj", "{5C7E02E1-CAA7-4246-A277-102FF6071E24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{181C29CF-59A6-4E02-88DE-1B3AB6D9268B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181C29CF-59A6-4E02-88DE-1B3AB6D9268B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181C29CF-59A6-4E02-88DE-1B3AB6D9268B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181C29CF-59A6-4E02-88DE-1B3AB6D9268B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C7E02E1-CAA7-4246-A277-102FF6071E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7E02E1-CAA7-4246-A277-102FF6071E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7E02E1-CAA7-4246-A277-102FF6071E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7E02E1-CAA7-4246-A277-102FF6071E24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E284828-2751-4CED-90B3-54C576BA312C}
+	EndGlobalSection
+EndGlobal
